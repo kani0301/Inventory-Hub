@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "id": "u1",
+      "username": "admin",
+      "password": "password123",
+      "name": "Alex Mercer",
+      "email": "23z121@psgitech.ac.in",
+      "role": "Administrator",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=150&q=80"
+    },
+    {
+      "id": "u-267280",
+      "username": "kani",
+      "password": "678",
+      "name": "kani",
+      "email": "23z121@psgitech.ac.in",
+      "role": "Manager",
+      "avatar": "https://images.unsplash.com/photo-1500000060243?auto=format&fit=crop&w=150&q=80"
+    }
+  ],
+  "sessions": [
+    {
+      "token": "token-853463289",
+      "userId": "u-267280",
+      "createdAt": "2026-06-24T06:27:41.583Z"
+    }
+  ],
+  "suppliers": [],
+  "products": [],
+  "movements": [],
+  "aiInsightsCache": []
+}
